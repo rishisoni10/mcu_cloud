@@ -1,0 +1,4 @@
+1614365470673	Delete resource 'uartconsole_EK_TM4C1294XL_TI'
+1614365477084	Delete resource 'gpiointerrupt_EK_TM4C1294XL_TI'
+1614373969193	Delete resource 'mcu_net/driverlib'
+1614376403384	Delete resource 'mcu_net/utils'

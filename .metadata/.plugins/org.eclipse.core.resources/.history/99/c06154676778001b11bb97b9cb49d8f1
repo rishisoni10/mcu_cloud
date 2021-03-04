@@ -1,0 +1,20 @@
+/**
+ * main.c
+ */
+
+class uart_drv{
+private:
+    int i = 0, j = 0;
+public:
+    int increment_i(){return i++;}
+    int increment_j(){return j++;}
+};
+
+int main(void)
+{
+    int i, j = 0;
+    for(i = 0; i < 100; i++){
+        j++;
+    }
+	return 0;
+}

@@ -1,0 +1,23 @@
+#include<cstdint>
+
+
+uint32_t clk_rate_hz;
+
+class uart_d{
+private:
+    uint8_t i = 0, j = 0;
+public:
+    void increment_i(){i++;}
+    void increment_j(){j++;}
+    uint8_t get_i(){return i;}
+    uint8_t get_j(){return j;}
+};
+
+int main(void)
+{
+    uart_d A;
+    while(A.get_i() < 1000){
+        A.increment_i();
+    }
+	return 0;
+}

@@ -1,0 +1,22 @@
+
+**** Build of configuration Debug for project mcu_net ****
+
+"C:\\ti\\ccs1020\\ccs\\utils\\bin\\gmake" -k -j 12 all -O 
+ 
+Building file: "../main.cpp"
+Invoking: GNU Compiler
+"C:/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc-7.2.1.exe" -c -mcpu=cortex-m4 -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -DPART_TM4C1294NCPDT -I"D:/mcu_cloud/mcu_net" -I"C:/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/arm-none-eabi/include" -I"C:/ti/tivaware_c_series_2_1_4_178" -I"D:/mcu_cloud/mcu_net/include" -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -specs="nosys.specs" -MMD -MP -MF"main.d" -MT"main.o"   -fno-threadsafe-statics  -o"main.o" "../main.cpp"
+Finished building: "../main.cpp"
+ 
+Building target: "mcu_net.out"
+Invoking: GNU Linker
+"C:/ti/ccs1020/ccs/tools/compiler/gcc-arm-none-eabi-7-2017-q4-major-win32/bin/arm-none-eabi-gcc-7.2.1.exe" -DPART_TM4C1294NCPDT -Og -ffunction-sections -fdata-sections -g -gdwarf-3 -gstrict-dwarf -Wall -specs="nosys.specs" -march=armv7e-m -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -Wl,-Map,"mcu_net.map" -L"C:/ti/tivaware_c_series_2_1_4_178" -o"mcu_net.out" "./main.o" "./tm4c1294ncpdt_startup_ccs_gcc.o" -Wl,-T"../tm4c1294ncpdt.lds"  
+makefile:141: recipe for target 'mcu_net.out' failed
+./main.o: In function `main':
+D:\mcu_cloud\mcu_net\Debug/../main.cpp:41: undefined reference to `SysCtlClockFreqSet'
+collect2.exe: error: ld returned 1 exit status
+gmake[1]: *** [mcu_net.out] Error 1
+makefile:137: recipe for target 'all' failed
+gmake: *** [all] Error 2
+
+**** Build Finished ****

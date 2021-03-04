@@ -1,0 +1,20 @@
+/**
+ * main.c
+ */
+
+class uart_d{
+private:
+    int i = 0, j = 0;
+public:
+    int increment_i(){return i++;}
+    int increment_j(){return j++;}
+    int
+};
+
+int main(void)
+{
+    uart_d A;
+    while(A.i < 1000)
+        A.increment_i();
+	return 0;
+}
