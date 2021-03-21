@@ -1,0 +1,4 @@
+driverlib/sw_crc.o: ../driverlib/sw_crc.c \
+ D:/mcu_cloud/mcu_net/driverlib/sw_crc.h
+
+D:/mcu_cloud/mcu_net/driverlib/sw_crc.h:

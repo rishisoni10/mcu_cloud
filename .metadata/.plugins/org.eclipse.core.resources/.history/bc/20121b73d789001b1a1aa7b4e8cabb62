@@ -1,0 +1,21 @@
+driverlib/watchdog.o: ../driverlib/watchdog.c \
+ D:/mcu_cloud/mcu_net/inc/hw_ints.h D:/mcu_cloud/mcu_net/inc/hw_memmap.h \
+ D:/mcu_cloud/mcu_net/inc/hw_types.h \
+ D:/mcu_cloud/mcu_net/inc/hw_watchdog.h \
+ D:/mcu_cloud/mcu_net/driverlib/debug.h \
+ D:/mcu_cloud/mcu_net/driverlib/interrupt.h \
+ D:/mcu_cloud/mcu_net/driverlib/watchdog.h
+
+D:/mcu_cloud/mcu_net/inc/hw_ints.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_memmap.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_types.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_watchdog.h:
+
+D:/mcu_cloud/mcu_net/driverlib/debug.h:
+
+D:/mcu_cloud/mcu_net/driverlib/interrupt.h:
+
+D:/mcu_cloud/mcu_net/driverlib/watchdog.h:

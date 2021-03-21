@@ -1,0 +1,17 @@
+driverlib/sysexc.o: ../driverlib/sysexc.c \
+ D:/mcu_cloud/mcu_net/inc/hw_ints.h D:/mcu_cloud/mcu_net/inc/hw_sysctl.h \
+ D:/mcu_cloud/mcu_net/inc/hw_sysexc.h D:/mcu_cloud/mcu_net/inc/hw_types.h \
+ D:/mcu_cloud/mcu_net/driverlib/debug.h \
+ D:/mcu_cloud/mcu_net/driverlib/interrupt.h
+
+D:/mcu_cloud/mcu_net/inc/hw_ints.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_sysctl.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_sysexc.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_types.h:
+
+D:/mcu_cloud/mcu_net/driverlib/debug.h:
+
+D:/mcu_cloud/mcu_net/driverlib/interrupt.h:

@@ -1,0 +1,22 @@
+driverlib/i2c.o: ../driverlib/i2c.c D:/mcu_cloud/mcu_net/inc/hw_i2c.h \
+ D:/mcu_cloud/mcu_net/inc/hw_ints.h D:/mcu_cloud/mcu_net/inc/hw_memmap.h \
+ D:/mcu_cloud/mcu_net/inc/hw_sysctl.h D:/mcu_cloud/mcu_net/inc/hw_types.h \
+ D:/mcu_cloud/mcu_net/driverlib/debug.h \
+ D:/mcu_cloud/mcu_net/driverlib/i2c.h \
+ D:/mcu_cloud/mcu_net/driverlib/interrupt.h
+
+D:/mcu_cloud/mcu_net/inc/hw_i2c.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_ints.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_memmap.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_sysctl.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_types.h:
+
+D:/mcu_cloud/mcu_net/driverlib/debug.h:
+
+D:/mcu_cloud/mcu_net/driverlib/i2c.h:
+
+D:/mcu_cloud/mcu_net/driverlib/interrupt.h:

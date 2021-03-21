@@ -1,0 +1,5 @@
+utils/random.o: ../utils/random.c ../utils/ustdlib.h ../utils/random.h
+
+../utils/ustdlib.h:
+
+../utils/random.h:

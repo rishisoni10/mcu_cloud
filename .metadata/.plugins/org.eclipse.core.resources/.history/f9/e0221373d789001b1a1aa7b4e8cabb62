@@ -1,0 +1,26 @@
+driverlib/emac.o: ../driverlib/emac.c D:/mcu_cloud/mcu_net/inc/hw_ints.h \
+ D:/mcu_cloud/mcu_net/inc/hw_memmap.h D:/mcu_cloud/mcu_net/inc/hw_types.h \
+ D:/mcu_cloud/mcu_net/inc/hw_emac.h \
+ D:/mcu_cloud/mcu_net/driverlib/debug.h \
+ D:/mcu_cloud/mcu_net/driverlib/emac.h \
+ D:/mcu_cloud/mcu_net/driverlib/sysctl.h \
+ D:/mcu_cloud/mcu_net/driverlib/interrupt.h \
+ D:/mcu_cloud/mcu_net/driverlib/sw_crc.h
+
+D:/mcu_cloud/mcu_net/inc/hw_ints.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_memmap.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_types.h:
+
+D:/mcu_cloud/mcu_net/inc/hw_emac.h:
+
+D:/mcu_cloud/mcu_net/driverlib/debug.h:
+
+D:/mcu_cloud/mcu_net/driverlib/emac.h:
+
+D:/mcu_cloud/mcu_net/driverlib/sysctl.h:
+
+D:/mcu_cloud/mcu_net/driverlib/interrupt.h:
+
+D:/mcu_cloud/mcu_net/driverlib/sw_crc.h:
