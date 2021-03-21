@@ -1,10 +1,4 @@
 eclipse.preferences.version=1
-encoding//Debug/Debug__TI(2)/driverlib/subdir_rules.mk=UTF-8
-encoding//Debug/Debug__TI(2)/driverlib/subdir_vars.mk=UTF-8
-encoding//Debug/Debug__TI(2)/subdir_rules.mk=UTF-8
-encoding//Debug/Debug__TI(2)/subdir_vars.mk=UTF-8
-encoding//Debug/Debug__TI(2)/utils/subdir_rules.mk=UTF-8
-encoding//Debug/Debug__TI(2)/utils/subdir_vars.mk=UTF-8
 encoding//Debug/driverlib/ccs/Debug/subdir_rules.mk=UTF-8
 encoding//Debug/driverlib/ccs/Debug/subdir_vars.mk=UTF-8
 encoding//Debug/driverlib/ewarm/Exe/subdir_rules.mk=UTF-8

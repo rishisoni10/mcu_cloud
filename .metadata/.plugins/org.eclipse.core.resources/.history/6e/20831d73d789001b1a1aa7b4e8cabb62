@@ -1,7 +1,0 @@
-utils/ustdlib.o: ../utils/ustdlib.c \
- D:/mcu_cloud/mcu_net/driverlib/debug.h \
- D:/mcu_cloud/mcu_net/utils/ustdlib.h
-
-D:/mcu_cloud/mcu_net/driverlib/debug.h:
-
-D:/mcu_cloud/mcu_net/utils/ustdlib.h:

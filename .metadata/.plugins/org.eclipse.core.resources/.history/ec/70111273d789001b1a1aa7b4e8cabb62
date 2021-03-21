@@ -1,3 +1,0 @@
-driverlib/cpu.o: ../driverlib/cpu.c D:/mcu_cloud/mcu_net/driverlib/cpu.h
-
-D:/mcu_cloud/mcu_net/driverlib/cpu.h:

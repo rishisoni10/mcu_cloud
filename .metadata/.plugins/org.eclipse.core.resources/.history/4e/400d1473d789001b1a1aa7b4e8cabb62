@@ -1,8 +1,0 @@
-driverlib/fpu.o: ../driverlib/fpu.c D:/mcu_cloud/mcu_net/inc/hw_nvic.h \
- D:/mcu_cloud/mcu_net/inc/hw_types.h D:/mcu_cloud/mcu_net/driverlib/fpu.h
-
-D:/mcu_cloud/mcu_net/inc/hw_nvic.h:
-
-D:/mcu_cloud/mcu_net/inc/hw_types.h:
-
-D:/mcu_cloud/mcu_net/driverlib/fpu.h:
